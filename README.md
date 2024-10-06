@@ -2,6 +2,12 @@
 
 ### Hi there 👋
 
+- 🔭 I’m currently working on  an instagram clone and using rest api for data fetching.
+- 👯 I’m looking to collaborate on front-end Projects.
+- 🤔 I’m looking for help on how to be a better programmer.
+- 📫 How to reach me: winfrednukpe2002@gmail.com
+- ⚡ Fun fact: I believe a great code session starts with a perfect cup of coffee 😃
+
 
 <!-- 
 Here are some ideas to get you started:
