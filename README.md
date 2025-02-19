@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Spotify Music Clone.
 - 👯 I’m looking to collaborate on front-end Projects.
 - 🤔 I’m looking for help on how to be a better programmer.
-- 📫 How to reach me: winfrednukpe2002@gmail.com
+- 📫 How to reach me: winfrednukpe2002@gmail.com Phone Number: +233 204554486
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe a great code session starts with a perfect cup of coffee 😃
   
