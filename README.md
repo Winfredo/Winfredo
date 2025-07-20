@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on an ecommerce site.
+- 🔭 I'm currently taking Scrimba’s Frontend Developer Career Path course.
 - 👯 I’m looking to collaborate on front-end Projects.
 - 🤔 I’m looking for help on how to be a better programmer.
 - 📫 How to reach me: winfrednukpe2002@gmail.com Phone Number: +233 204554486
