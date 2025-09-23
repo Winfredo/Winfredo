@@ -6,7 +6,7 @@
 - 🔭 I'm currently taking Scrimba’s Frontend Developer Career Path course.
 - 📫 How to reach me: winfrednukpe2002@gmail.com Phone Number: +233 204554486
 - 😄 Pronouns: That Guy.
-- ⚡ Fun fact: I believe a great code session starts with a perfect cup of coffee 😃
+- ⚡ Fun fact: I can name all the planets in our solar system faster than I can debug a bug 😂
   
 
 
