@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=winfredo&label=Profile%20views&color=e91e63&style=flat" alt="winfredo" /> </p>
 
-### Hi there 👋
+### Hi 👋
 - 👯 I'm looking to collaborate on full-stack projects that solve real problems.
 - 🌱 Currently going deep on system design, Docker and API documentation.
 - 🔭 Fullstack developer from Accra, Ghana. I build REST APIs, payment integrations and fintech products with Node.js and TypeScript.
