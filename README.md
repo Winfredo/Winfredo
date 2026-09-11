@@ -5,7 +5,7 @@
 - 🌱 Currently going deep on system design, Docker and API documentation.
 - 🔭 Fullstack developer from Accra, Ghana. I build REST APIs, payment integrations and fintech products with Node.js and TypeScript.
 - 📫 How to reach me: winfrednukpe2002@gmail.com Phone Number: +233 204554486
-- 😄 Pronouns: HIM.
+- 😄 Pronouns: HIM
 - ⚡ Fun fact: I spent a week debugging a payment webhook only to realize I was using the wrong API key. 🥲
   
 
