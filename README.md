@@ -3,7 +3,7 @@
 ###
 - 👯 I'm looking to collaborate on full-stack projects that solve real problems.
 - 🌱 Currently going deep on system design, Docker and API documentation.
-- 🔭 Fullstack developer
+- 🔭 Fullstack developer.
 - 📫 How to reach me: winfrednukpe2002@gmail.com Phone Number: +233 204554486
 - 😄 Pronouns: HIM
 - ⚡ Fun fact: I spent a week debugging a payment webhook only to realize I was using the wrong API key. 🥲
